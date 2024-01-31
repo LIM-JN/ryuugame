@@ -245,4 +245,7 @@ ul {
     header h1 {
         font-size: 26px;
     }
+    .background-div img {
+        transform: translateX(-60%);
+    }
   }
